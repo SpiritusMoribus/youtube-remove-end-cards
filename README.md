@@ -5,7 +5,8 @@ This is made for tampermonkey.
 Tampermonkey is a browser extension. You can find it for google over here :
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
-You create a script and add the code from the repo.
+You create a script and add the code from the the tyampermonkey.js file. 
+It's literally Copy and Paste.
 
 Cards On :
 ![Cards On](https://user-images.githubusercontent.com/91721679/135584237-e48fe02a-9db6-4aee-a402-d2e5940c3c52.PNG)
