@@ -1,4 +1,4 @@
-# youtube-toggle-end-cards
+# YouTube Toggle End Cards
 A basic Script to turn YouTube end cards on and off at the end of youtube videos. 
 
 This is made for tampermonkey. 
